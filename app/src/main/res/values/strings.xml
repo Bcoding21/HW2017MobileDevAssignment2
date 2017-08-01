@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">iTunesSearch-Brandon</string>
+    <string name="err_mess_json_req">Could not get songs</string>
+    <string name="dialog_title">Search for tracks</string>
+    <string name="pos_butt_text">ok</string>
+    <string name="neg_butt_text">cancel</string>
+    <string name="default_setType">text/plain</string>
+    <string name="default_subject">This track is good</string>
+    <string name="default_share_mess">Share link using</string>
+    <string name="results_mess"></string>
+</resources>
